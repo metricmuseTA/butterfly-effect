@@ -120,7 +120,7 @@ butterfly-effect/
 ## Collaborators
 
 **Tiffani Anderson** — Pipeline architecture, data engineering, Databricks
-[LinkedIn](https://www.linkedin.com/in/tiffani-anderson/) | [Metric Muse](https://www.linkedin.com/company/metric-muse)
+[LinkedIn](https://www.linkedin.com/in/tiffani-anderson-821130363) | [Metric Muse](https://www.linkedin.com/in/company/metricmuse)
 
 **Muhammad Monis** — Data analysis, Power BI visualization, data cleaning
 [LinkedIn](https://www.linkedin.com/in/muhammad-monis/)
